@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Proyectos de software\Punto de Venta\4.DataAccessLayer\DAL\bin\Debug\DAL.dll
+C:\Users\Felipe\Documents\Proyectos de software\Punto de Venta\4.DataAccessLayer\DAL\bin\Debug\DAL.pdb
+C:\Users\Felipe\Documents\Proyectos de software\Punto de Venta\4.DataAccessLayer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\Proyectos de software\Punto de Venta\4.DataAccessLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Proyectos de software\Punto de Venta\4.DataAccessLayer\DAL\obj\Debug\DAL.dll
+C:\Users\Felipe\Documents\Proyectos de software\Punto de Venta\4.DataAccessLayer\DAL\obj\Debug\DAL.pdb
