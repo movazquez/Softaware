@@ -11,7 +11,7 @@ namespace BOL
     class MarcaDAL
     {
         //Singleton
-        private static volatile TallaDAL instance = null;
+        private static volatile MarcaDAL instance = null;
         private static readonly object padlock = new object();
         private DataAccess dataAccess = DataAccess.Instance();
 
